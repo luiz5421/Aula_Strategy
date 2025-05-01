@@ -1,2 +1,1 @@
 # Aula_Strategy
-dddd
